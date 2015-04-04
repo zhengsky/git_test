@@ -5,8 +5,9 @@ public class HelloWorld {
 	/**
 	 * 
 	 * @param args
-	 *            Date: 2015Äê4ÔÂ4ÈÕ User:Administrator
-	 * @Date:2015Äê4ÔÂ4ÈÕÏÂÎç5:56:13
+	 * Date: 2015å¹´4æœˆ4æ—¥
+	 * User:Administrator
+	 * @Date:2015å¹´4æœˆ4æ—¥ä¸‹åˆ6:15:16
 	 */
 	public static void main(String[] args) {
 		System.out.println("sdfas");
