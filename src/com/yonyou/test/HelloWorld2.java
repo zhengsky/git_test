@@ -12,7 +12,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("sdfas");
 
-		System.out.println("Second十分三份");
+		System.out.println("Second十分三份是否按时");
 		
 	}
 }
