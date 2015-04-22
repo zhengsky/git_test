@@ -1,4 +1,4 @@
-package com.yonyou.test;
+﻿package com.yonyou.test;
 
 public class HelloWorld {
 
@@ -12,7 +12,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("sdfas");
 
-		System.out.println("Second");
+		System.out.println("Second十分三份");
 		
 	}
 }
