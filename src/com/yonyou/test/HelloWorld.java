@@ -13,6 +13,7 @@ public class HelloWorld {
 		System.out.println("sdfas");
 
 		System.out.println("Second");
+		System.out.println("Second");
 
 	}
 }
