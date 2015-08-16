@@ -1,6 +1,6 @@
 ﻿package com.yonyou.test;
 
-public class HelloWorld {
+public class HelloWorld2 {
 
 	/**
 	 * 
