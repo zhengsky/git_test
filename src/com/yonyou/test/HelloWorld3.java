@@ -7,7 +7,7 @@ public class HelloWorld3 {
 		System.out.println("sdfas");
 
 
-		System.out.println("Second «∑Òµ≠µ≠µÿdevdev3");
+		System.out.println("Seconddevdev3");
 
 
 		
